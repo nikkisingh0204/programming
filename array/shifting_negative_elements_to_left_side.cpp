@@ -2,7 +2,7 @@
 using namespace std;
  //using partition algorithm , we take a pivot and then shift the elements 
 int main()
-{
+{//added a new line
     int n ;
     cin >>  n ;
     int pivot = 0; 
